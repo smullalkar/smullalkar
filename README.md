@@ -2,7 +2,8 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smullalkar" alt="smullalkar" /> </p>
-- 🔭 I’m currently working on **React Redux Flask**
+
+- 🔭 I’m currently working on **React, Redux, Flask**
 
 - 🌱 I’m currently learning **Web Development**
 
