@@ -23,3 +23,10 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=smullalkar&show_icons=true" alt="smullalkar" />
 <br/>
+
+<p align="right">
+<a href="https://twitter.com/shabaz mullalkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shabaz mullalkar" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/shabaz mullalkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shabaz mullalkar" height="30" width="30" /></a>
+<a href="https://instagram.com/shazz_ab17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shazz_ab17" height="30" width="30" /></a>
+<a href="https://www.hackerrank.com/smullalkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="shabaz mullalkar" height="30" width="30" /></a>
+</p>
