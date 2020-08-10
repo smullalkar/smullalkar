@@ -23,6 +23,14 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=smullalkar&show_icons=true" alt="smullalkar" />
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <p align="center">
 <a href="https://twitter.com/shabaz mullalkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shabaz mullalkar" height="30" width="30" /></a>
