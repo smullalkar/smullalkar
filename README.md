@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.JS and Node.JS**
 
-- 👯 I’m currently looking for a **Job**
+- 👯 I’m currently looking for a **Job Change in Bangalore**
 
 - 👨‍💻 All of my projects are available at [https://smullalkar.github.io/smullalkar_portfolio/](https://smullalkar.github.io/smullalkar_portfolio/)
 
