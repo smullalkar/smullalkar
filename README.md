@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smullalkar" alt="smullalkar" /> </p>
 
-- 🔭 I’m currently working on **React, Redux, Flask**
+- 🔭 I’m currently working as SDE 1 Frontend Developer @ **Eduvanz**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Next.JS and Node.JS**
 
 - 👯 I’m currently looking for a **Job**
 
